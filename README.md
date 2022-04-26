@@ -106,4 +106,4 @@ NOTE: Be **absolutely** certain that the arguments entered while running the 2D 
 ![Optimal_path_testcase2](/outputs/Part2_3D_A_star_gazebo.png?raw=true)
 
 **Video Output**
-**Part2 visualization video:** [-](https://youtu.be/N0UJI5H6qMY).
+**Part2 visualization video:** [Part2 video](https://youtu.be/N0UJI5H6qMY).
