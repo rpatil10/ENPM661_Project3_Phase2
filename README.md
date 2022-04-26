@@ -67,7 +67,7 @@ python3 turtlebot_A_star.py -4,1,0 4.25,2.75 30,25,5
 ```
 **Output**
 **Part1 testcase 2 visualization video:** [Test case 2](https://youtu.be/IZhh9Sk9AvM).
-![Optimal_path_testcase2](/outputs/Part1_2D_A_star_turtlebot_testcase_2_image.png?raw=true)
+![Optimal_path_testcase2](/outputs/Part1_2D_A_star_turtlebot2_testcase_2_image.png?raw=true)
 
 ## Part 2: 3D turtlebot
 Traverse to location containing **proj3_ws**. This is the workspace that contains all the files necessary to run A* for Turtlebot3 in ROS-Gazebo. 
